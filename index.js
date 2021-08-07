@@ -1,3 +1,5 @@
-import slugify from "slugify"
-const title = slugify ("bugün hava 27 derece", `*`);
-console.log(title);
+import Topla from "./my-module.js"
+
+console.log(Topla(2, 4));
+
+
