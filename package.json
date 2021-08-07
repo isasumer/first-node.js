@@ -1,0 +1,23 @@
+{
+  "name": "learning-node",
+  "version": "1.0.0",
+  "description": "isa node",
+  "main": "index.js",
+  "type" : "module",
+  "scripts": {
+    "test": "isa",
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "isa"
+  },
+  "keywords": [
+    "isa"
+  ],
+  "author": "isa",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "slugify": "^1.6.0"
+  }
+}
