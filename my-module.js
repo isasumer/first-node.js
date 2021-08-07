@@ -1,5 +1,6 @@
-function topla(a,b) {
-    return a + b;
-}
+export const hello = () => {
+    console.log("merhaba");
+} 
 
-export default topla;
+export const topla = (a,b) => a + b;
+

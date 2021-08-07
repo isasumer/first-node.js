@@ -1,5 +1,6 @@
-import Topla from "./my-module.js"
+import { hello, topla } from "./my-module.js"
 
-console.log(Topla(2, 4));
+console.log(topla(10, 4));
+hello ();
 
 
